@@ -32,9 +32,9 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   </a>
 	<br><br>
-	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJinK0%2Fhit-counter"/>
-<!--   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJinK0&layout=compact"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/> -->
+	<br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
+	<br><br>
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEJinK0%2Fhit-counter"/>
 </div>
