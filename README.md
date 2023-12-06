@@ -31,7 +31,10 @@
   <a href="https://fascinated-femur-924.notion.site/674dc62ee3434f2ba97074a02851568f?pvs=4">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
   </a>
-	<br><br>
+  <br><br>
+  👇 wepin public code👇
+  https://github.com/HHeeJJ/wepin.git
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJinK0&layout=compact"/>
 	<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
