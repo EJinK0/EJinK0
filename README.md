@@ -28,7 +28,7 @@
   <br><br>
 👇 MyVelog 👇
   <br><br>
-  <a href="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@e_jink0">
+  <a href="https://velog.io/@e_jink0">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   </a>
   <br><br>
