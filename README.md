@@ -26,6 +26,12 @@
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <br><br>
+👇 MyVelog 👇
+  <br><br>
+  <a href="http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@e_jink0">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
+  </a>
+  <br><br>
   👇 MyNotion 👇
   <br><br>
   <a href="https://fascinated-femur-924.notion.site/674dc62ee3434f2ba97074a02851568f?pvs=4">
