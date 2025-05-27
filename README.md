@@ -14,8 +14,6 @@
   <img src="https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat&logo=CreateReactApp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
   <br><br>
   🛠️ Tools 🛠️
   <br><br>
