@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FFCCCC&height=150&section=header&text=Hello%20JinKyeong%20World!&fontSize=60&animation=twinkling" />
-  <br><br>
+	<br><br>
+	👇 contact 👇
+	<br><br>
+  ✉️: wlsrud951108@gmail.com <br>
+	
+ <br><br>
   💻  Tech Stack  💻
   <br><br>
   🌏 Platforms & Languages 🌏
