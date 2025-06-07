@@ -46,7 +46,7 @@
   <br>
   https://github.com/HHeeJJ/wepin.git
   <br><br>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJinK0&layout=compact"/>
 	<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
 	<br><br>
