@@ -46,4 +46,11 @@
 	<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
 	<br><br>
+
+ 🏅 AWS Certification
+ <br> <br>
+<a href="https://www.credly.com/badges/f5569fe7-aa48-4819-a2b9-88a16a14bd4f/public_url">
+	<img width="100" height="100" alt="aws-certified-solutions-architect-associate" src="https://github.com/user-attachments/assets/caf09320-a9f6-483b-bd66-45ac938abf24" />
+</a>
+<br><br>
 </div>
