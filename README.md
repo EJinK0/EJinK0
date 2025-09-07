@@ -32,12 +32,6 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" />
   </a>
   <br><br>
-  👇 MyNotion 👇
-  <br><br>
-  <a href="https://fascinated-femur-924.notion.site/674dc62ee3434f2ba97074a02851568f?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-  </a>
-  <br><br>
   👇 wepin public code👇
   <br>
   https://github.com/HHeeJJ/wepin.git
@@ -46,6 +40,10 @@
 	<br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
 	<br><br>
+📊 Algorithm
+<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wls5819)](https://solved.ac/wls5819)
+<img src="http://mazandi.herokuapp.com/api?handle=wls5819&theme=warm"/>
 
  🏅 AWS Certification
  <br> <br>
