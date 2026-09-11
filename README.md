@@ -36,14 +36,6 @@
   <br>
   https://github.com/HHeeJJ/wepin.git
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EJinK0"/>
-	<br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=EJinK0&show_icons=true"/>
-	<br><br>
-📊 Algorithm
-<br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wls5819)](https://solved.ac/wls5819)
-<img src="http://mazandi.herokuapp.com/api?handle=wls5819&theme=warm"/>
 
  🏅 AWS Certification
  <br> <br>
